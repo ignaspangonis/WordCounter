@@ -1,5 +1,5 @@
 # WordCounter
-A C++ application that counts the words which appear in the `.txt` file at least 2 times. Then it prints them, their frequency and the lines they appeared in to `result.txt`. The program also finds URLs and prints them as well.
+A C++ application that counts the words which appear in the `.txt` file at least 2 times. Then it prints them, their frequency and the lines they appeared in into `result.txt`. The program also finds URLs and prints them as well.
 
 ## Installation and execution
 1. Download the app.
