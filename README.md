@@ -9,5 +9,5 @@ A C++ application that counts the words which appear in the `.txt` file at least
 5. Start the program by typing `./main` or `main`
 
 ## How do I use it?
-- Move the `.txt` file that you want to analyze to the program directory (exemplary `source.txt` is already in the directory). Enter the file name (with the extension `.txt`).
+- Move the `.txt` file that you want to analyze to the program directory (an exemplary `source.txt`  file is already in the directory). Enter the file name (with the extension `.txt`).
 - *Voilà*, the process is done! Check the results in the `result.txt` file.
