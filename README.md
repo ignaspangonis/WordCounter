@@ -10,5 +10,4 @@ A C++ application that counts the words which appear in the `.txt` file at least
 
 ## How do I use it?
 - Move the `.txt` file that you want to analyze to the program directory (exemplary `source.txt` is already in the directory). Enter the file name (with the extension `.txt`).
-- *Voilà*, the process is done!
-- Check the results in the `result.txt` file.
+- *Voilà*, the process is done! Check the results in the `result.txt` file.
