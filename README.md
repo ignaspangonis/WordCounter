@@ -5,7 +5,7 @@ This is the fifth assignment in the OOP module. Associative containers used: `st
 
 ## Installation and execution
 1. Download the app.
-2. If you haven't already, download and install the [GCC](https://gcc.gnu.org/) compiler.
+2. If you haven't already, download and install the [GCC](https://gcc.gnu.org/) compiler (or use an IDE of your preference).
 3. Open a terminal window and navigate to the program directory on the disk.
 4. Compile the program: `g++ main.cpp -o main`
 5. Start the program by typing `./main` or `main`
